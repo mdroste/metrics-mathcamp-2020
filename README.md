@@ -2,10 +2,9 @@
 Econometrics Math Camp 2020
 =================================
 
-This repository contains the documents that will be used in the econometrics portion of Harvard's economics department math camp for incoming first-year graduate students.
+This repository contains some of the material that was used for the econometrics segment of Harvard's economics math camp in 2020.
 
-The folder 'Notes' contains a master notes document that covers all of the content we will cover in math camp (and more). The folder 'Slides' contains the main sets of slides that I will present during our sessions. The folder 'Worksheet' contains a document with the problems we'll cover in breakout rooms.
-
+Please refer to [this repository](https://github.com/mdroste/metrics-mathcamp-2021) for a more updated version of this material.
 
 Acknowledgements
 ---------------------------------
